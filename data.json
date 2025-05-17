@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "b002",
+      "name": "shravyashree",
+      "email": "shrapoojary123@gmail.com",
+      "mobile": "896895658",
+      "gender": "female",
+      "address": "jfoiekjejfyoe"
+    },
+    {
+      "id": "e35f",
+      "name": "shravyashree",
+      "email": "shrapoojary123@gmail.com",
+      "mobile": "956265562",
+      "gender": "female",
+      "address": "ngyujkutiuhgyt"
+    },
+    {
+      "id": "3746",
+      "name": "shravyashree",
+      "email": "shrapoojary123@gmail.com",
+      "mobile": "79656856",
+      "gender": "female",
+      "address": "sfyguiou"
+    }
+  ]
+}
